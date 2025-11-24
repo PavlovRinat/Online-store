@@ -1,0 +1,8 @@
+sales_analysis/
+1 main.py
+2 data_loader.py
+3 analytics.py
+4 pages/
+    4.1 home.py
+    4.2 sales_stats.py
+    4.3 products.py
