@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 def load_data(file_path):
-    """Загружает данные из CSV или JSON файла"""
+    #Загружает данные из CSV или JSON файла
     print(f"Пытаюсь загрузить файл: {file_path}")
     
     try:
