@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 def load_data(file_path):
-    """Загружает данные из CSV или JSON файла"""
+    #Загружает данные из CSV или JSON файла
     try:
         if file_path.endswith('.csv'):
             data = pd.read_csv(file_path)
